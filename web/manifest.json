@@ -1,0 +1,11 @@
+{
+  "name": "FactoryFlow Mobile",
+  "short_name": "PortfolioApp",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#1565C0",
+  "description": "A Flutter portfolio project.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
